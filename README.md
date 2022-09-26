@@ -19,7 +19,7 @@ An implementation of [AppImage](https://appimage.org) AppImage format.
 
 # PyCharm AppImage 2022.2
 
-[![PyCharm](https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg)](https://www.jetbrains.com/pycharm/download/#section=linux)
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="125" height="125" title="PyCharm" alt="PyCharm"> 
 PyCharm AppImage. The Python IDE for Professional Developers. PyCharm is designed by programmers, for programmers, to provide all the tools you need for productive Python development.
 
 [AppImage](https://appimage.org) is a community-based format to distribute applications to various mainstream Linux distributions without the need for a centralized store. One app = one file! This list contains tools to work with AppImages, such as to create AppImages for applications and to integrate AppImages into the system easily. As the vibrant community around AppImage is growing, so is this list.
