@@ -5,9 +5,9 @@ An implementation of [AppImage](https://appimage.org) AppImage format.
 <!--lint disable double-link-->
 
 <div align="center">
-	<div>
+	<a href="https://appimage.org">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/App-image-logo.svg" width="125" alt="AppImage">
-	</div>
+	</a>
 	<a href="https://www.jetbrains.com/pycharm/download/#section=linux">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="125" alt="PyCharm">
 	</a>
