@@ -6,13 +6,13 @@ An implementation of [AppImage](https://appimage.org) AppImage format.
 
 <div align="center">
 	<div>
-		<img width="125" src="https://upload.wikimedia.org/wikipedia/commons/7/73/App-image-logo.svg" alt= AppImage">
+		<img width="125" src="https://upload.wikimedia.org/wikipedia/commons/7/73/App-image-logo.svg" alt="AppImage">
 	</div>
 	<a href="https://www.jetbrains.com/pycharm/download/#section=linux">
 		<!img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm">
 	</a>
 	<p>
-		<sub>Lovingly crafted AppImage tools and resources.</a>.</sub>
+		<sub>Lovingly crafted AppImage tools and resources.</sub>
 	</p>
 	<br>
 </div>
